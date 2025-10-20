@@ -8,8 +8,8 @@ I'm **Anton**, an Engineering student @ **SFU** with a focus on software and too
 ---
 
 ## What I’m up to
-- 🧪 Interests: tooling, automation, embedded, and CAD workflows
-- 🤝 Open to: internships, collabs, and open-source contributions
+- 🧪 Interests: tooling, automation, embedded, and CAD automation
+- 🤝 Open to: internships, collabs - I love hackathons; Check out my projects on [**Devpost**](https://devpost.com/Antonfromvancouver)
 
 ---
 
@@ -19,5 +19,10 @@ I'm **Anton**, an Engineering student @ **SFU** with a focus on software and too
 </a>
 
 
-Feel free to reach out if you'd like to connect.
+## Let’s Connect
+[![Devpost](https://img.shields.io/badge/Devpost-Antonfromvancouver-blue?logo=devpost)](https://devpost.com/Antonfromvancouver)
+[![Email](https://img.shields.io/badge/Email-antonilic%40protonmail.com-informational?logo=protonmail)](mailto:antonilic@protonmail.com)
+
+Feel free to reach out if you'd like to connect. I'm happy to chat about projects, hackathons, or new ideas!
+
 
