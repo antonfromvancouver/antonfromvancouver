@@ -20,12 +20,13 @@ I'm **Anton**, an Engineering student @ **SFU** with a focus on software and too
 
 
 ## Let’s Connect
-[![Devpost](https://img.shields.io/badge/Devpost-anton-ilic-blue?logo=devpost)](https://devpost.com/anton-ilic)
+[![Devpost](https://img.shields.io/badge/Devpost-antonilic-blue?logo=devpost)](https://devpost.com/anton-ilic)
 [![Email](https://img.shields.io/badge/Email-antonilic%40protonmail.com-informational?logo=protonmail)](mailto:antonilic@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--ilic-blue?logo=linkedin)](https://www.linkedin.com/in/anton-ilic)
 
 
 Feel free to reach out if you'd like to connect. I'm happy to chat about projects, hackathons, or new ideas!
+
 
 
 
