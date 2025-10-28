@@ -15,7 +15,7 @@ I'm **Anton**, an Engineering student @ **SFU** with a focus on software and too
 
 ## GitHub Snapshot
 <a href="https://github.com/antonfromvancouver">
-  <img align="top" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonfromvancouver&layout=compact&hide_title=true" alt="Top Languages">
+  <img align="top" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton-ilic&layout=compact&hide_title=true" alt="Top Languages">
 </a>
 
 
@@ -26,6 +26,7 @@ I'm **Anton**, an Engineering student @ **SFU** with a focus on software and too
 
 
 Feel free to reach out if you'd like to connect. I'm happy to chat about projects, hackathons, or new ideas!
+
 
 
 
